@@ -42,7 +42,7 @@ I'm a passionate software engineer with over 15 years of experience building and
 
 ## What I've Been Up To
 
-### 🚀 Senior Software Engineer at Lab Zero
+### 🚀 Senior Software Engineer at Lab Zero (2020-present)
 
 At Lab Zero, I had the opportunity to build products and consult for a variety of clients, sometimes as a member of a team and other times as the engineering lead on the team.  Here are a few examples:
 
@@ -67,24 +67,36 @@ At Lab Zero, I had the opportunity to build products and consult for a variety o
 - Taught training sessions and helped level-up new engineers as they joined.
 
 
-### 🌟 CTO / Engineer at TLC List Inc.
+### 🌟 CTO / Engineer at TLC List Inc. (2020-2022)
 
 - Led the development of a real-estate market application, focusing on user experience.
 - Mentored and collaborated with contractors to deliver high-quality solutions.
 
-### 💡 Senior Software Engineer at Verba Software
+### 💡 Senior Software Engineer at Verba Software (2018-2020)
 
 - Managed multiple Rails applications for universities, integrating React frontends and various APIs.
 - Emphasized comprehensive testing using RSpec and Jest, ensuring robust and reliable software.
 
-### Instructor for Web Developer Immersive courses at General Assembly
+### Fullstack Engineer at Piqued Inc (2016-2020)
+
+- Managed the entire backend API, web frontend development, and server infrastructure for iOS/Android apps.
+- Developed JSON APIs on Rails for mobile clients and built a Vue.js web frontend for existing data.
+- Managed AWS infrastructure, ensuring optimal performance and cost-effectiveness.
+
+### Instructor for Web Developer Immersive courses at General Assembly (2015-2016)
 
 - Full-time instructor for a 3-month web development boot camp.
 - Developed and delivered lessons and coding labs.
-- Mentored students on web development fundamentals and advanced topics (Git, CSS, jQuery, Node, Express, Angular, Ruby on Rails).
+- Mentored students on web development fundamentals and related topics (Git, CSS, jQuery, Node, Express, Angular, Ruby on Rails).
 - Led implementation of coding standards and style guides to improve lesson consistency and stay up-to-date with modern practices.
 
-### Senior QA Engineer, Software Engineer at PC-Doctor, Inc
+### Senior QA Automation Engineer at Vertical Response (2012-2014)
+
+- Collaborated with a team on a ground-up rewrite of the company’s flagship software service (RoR).
+- Utilized Capybara, RSpec, Selenium, and Cucumber for comprehensive testing.
+- Managed infrastructure and led load testing before launch.
+
+### Senior QA Engineer, Software Engineer at PC-Doctor, Inc (2005-2010)
 
 - Developed diagnostic software for major PC OEMs.
 - Built workflow software for top PC OEMs' repair/refurbishment centers.
