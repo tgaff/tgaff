@@ -61,42 +61,43 @@ At Lab Zero, I had the opportunity to build products and consult for a variety o
 - Spearheaded the development and launch of a broad Fin-tech application, as **lead developer** from inception to initial customer releases.
 - Utilized a tech stack of Ruby on Rails and Hotwire.
 - Proactively educated the team on best practices for Turbo and Stimulus, elevating the skill set and productivity of fellow developers.
-- Oversaw and implemented numerous asynchronous API integrations for deep KYC.
+- Oversaw and implemented numerous asynchronous API integrations for deeper KYC.
 - Prioritized robust security measures and stringent customer-data protection while balancing the need for longer-term maintainability and speed of release.
 - Ensured zero downtime releases.
 - Taught training sessions and helped level-up new engineers as they joined.
 
+### Previous roles
 
-### 🌟 CTO / Engineer at TLC List Inc. (2020-2022)
+#### 🌟 CTO / Engineer at TLC List Inc. (2020-2022)
 
 - Led the development of a real-estate market application, focusing on user experience.
 - Mentored and collaborated with contractors to deliver high-quality solutions.
 
-### 💡 Senior Software Engineer at Verba Software (2018-2020)
+#### 💡 Senior Software Engineer at Verba Software (2018-2020)
 
 - Managed multiple Rails applications for universities, integrating React frontends and various APIs.
 - Emphasized comprehensive testing using RSpec and Jest, ensuring robust and reliable software.
 
-### Fullstack Engineer at Piqued Inc (2016-2020)
+#### Fullstack Engineer at Piqued Inc (2016-2020)
 
 - Managed the entire backend API, web frontend development, and server infrastructure for iOS/Android apps.
 - Developed JSON APIs on Rails for mobile clients and built a Vue.js web frontend for existing data.
 - Managed AWS infrastructure, ensuring optimal performance and cost-effectiveness.
 
-### Instructor for Web Developer Immersive courses at General Assembly (2015-2016)
+#### Instructor for Web Developer Immersive courses at General Assembly (2015-2016)
 
 - Full-time instructor for a 3-month web development boot camp.
 - Developed and delivered lessons and coding labs.
 - Mentored students on web development fundamentals and related topics (Git, CSS, jQuery, Node, Express, Angular, Ruby on Rails).
 - Led implementation of coding standards and style guides to improve lesson consistency and stay up-to-date with modern practices.
 
-### Senior QA Automation Engineer at Vertical Response (2012-2014)
+#### Senior QA Automation Engineer at Vertical Response (2012-2014)
 
 - Collaborated with a team on a ground-up rewrite of the company’s flagship software service (RoR).
 - Utilized Capybara, RSpec, Selenium, and Cucumber for comprehensive testing.
 - Managed infrastructure and led load testing before launch.
 
-### Senior QA Engineer, Software Engineer at PC-Doctor, Inc (2005-2010)
+#### Senior QA Engineer, Software Engineer at PC-Doctor, Inc (2005-2010)
 
 - Developed diagnostic software for major PC OEMs.
 - Built workflow software for top PC OEMs' repair/refurbishment centers.
