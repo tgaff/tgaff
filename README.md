@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Travis Gaff
 
-I'm a Software Engineer based in Tokyo, Japan. 🗾 You can find my profile on [LinkedIn](https://www.linkedin.com/in/travisgaff).
+I'm a Software Engineer based in Tokyo, Japan. 🗾 You can find my profile on [LinkedIn](www.linkedin.com/in/travisgaff).
 I'm currently looking for my next adventure and experimenting with RAG implementations!
 
 ---
