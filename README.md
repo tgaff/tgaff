@@ -16,6 +16,9 @@ I'm a passionate software engineer with over 15 years of experience building and
 - **Mentorship:** I've had the privilege of helping numerous engineers skill-up, both within the codebase and in their collaborative processes.
 - **Advocate for Automated Testing:** I firmly believe in the power of automated testing. Well-written tests not only improve build & release confidence they also double as documentation of code and the original intent behind it for years to come.
 
+<a href="https://www.github.com/tgaff" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/travisgaff" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
 ---
 
 ## Skills & Expertise
@@ -26,6 +29,10 @@ I'm a passionate software engineer with over 15 years of experience building and
 - **Deployment:** CI/CD, Zero Downtime Deployments
 - **Cloud Platforms:** AWS, GCP
 - **Methodologies:** Agile
+
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Figma" /></a>
 
 ---
 
@@ -104,7 +111,6 @@ I'm currently open to new opportunities, collaborations, and interesting discuss
 
 - **University of Nevada, Reno | B.A., Biology & Computer Science**
 - **University of Notre Dame | B.B.A., Management Information Systems**
-
 
 <!--
 - 🔭 I’m currently working on ...
