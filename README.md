@@ -1,13 +1,16 @@
 # Hi there! 👋 I'm Travis Gaff
 
 I'm a Software Engineer based in Tokyo, Japan. 🗾 You can find my profile on [LinkedIn](https://www.linkedin.com/in/travisgaff).
-I'm currently looking for my next adventure and experimenting with RAG implementations!
 
 ---
 
 ## About Me
 
-I'm a passionate software engineer with over 15 years of experience building and maintaining web applications. I take pride in delivering high-quality, maintainable code using **modern development practices**, with a strong emphasis on **automated testing**. I believe that engineers need to work hand-in-hand with design and product to better solve for their customers' needs.
+- Senior Software Engineer
+  - primarily with ruby, but also other langs
+- ~15 years experience
+- located in Tokyo, Japan
+- focus on team process, testing and maintainability
 
 ### Not just an engineer
 
@@ -21,14 +24,6 @@ I'm a passionate software engineer with over 15 years of experience building and
 
 ---
 
-## Skills & Expertise
-
-- **Languages:** Ruby, JavaScript (ES6+), Python
-- **Frameworks & Libraries:** Rails, React, Vue.js, Node.js
-- **Testing:** RSpec, Jest, Capybara
-- **Deployment:** CI/CD, Zero Downtime Deployments
-- **Cloud Platforms:** AWS, GCP
-- **Methodologies:** Agile
 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -111,6 +106,18 @@ I'm currently open to new opportunities, collaborations, and interesting discuss
 
 - **University of Nevada, Reno | B.A., Biology & Computer Science**
 - **University of Notre Dame | B.B.A., Management Information Systems**
+
+---
+
+## Skills & Expertise
+
+- **Languages:** Ruby, JavaScript (ES6+), Python
+- **Frameworks & Libraries:** Rails, React, Vue.js, Node.js
+- **Testing:** RSpec, Jest, Capybara
+- **Deployment:** CI/CD, Zero Downtime Deployments
+- **Cloud Platforms:** AWS, GCP
+- **Methodologies:** Agile
+
 
 <!--
 - 🔭 I’m currently working on ...
