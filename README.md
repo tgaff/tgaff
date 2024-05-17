@@ -59,7 +59,7 @@ At Lab Zero, I had the opportunity to build products and consult for a variety o
 
 ### Previous roles
 
-#### 🌟 CTO / Engineer at TLC List Inc. (2020-2022)
+#### 🌟 CTO / Engineer at TLC List Inc. (2020-2022) (side-startup)
 
 - Led the development of a real-estate market application, focusing on user experience.
 - Mentored and collaborated with contractors to deliver high-quality solutions.
@@ -69,7 +69,7 @@ At Lab Zero, I had the opportunity to build products and consult for a variety o
 - Managed multiple Rails applications for universities, integrating React frontends and various APIs.
 - Emphasized comprehensive testing using RSpec and Jest, ensuring robust and reliable software.
 
-#### Fullstack Engineer at Piqued Inc (2016-2020)
+#### Fullstack Engineer at Piqued Inc (2016-2020) (side-startup)
 
 - Managed the entire backend API, web frontend development, and server infrastructure for iOS/Android apps.
 - Developed JSON APIs on Rails for mobile clients and built a Vue.js web frontend for existing data.
