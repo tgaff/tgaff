@@ -14,7 +14,7 @@ I'm a Software Engineer based in Tokyo, Japan. 🗾 You can find my profile on [
 
 ### Not just an engineer
 
-- **Client-Focused Problem Solver:** I prioritize solving the right problem for the client. Through collaboration, with product, design and other stakeholders we often discover that the obvious solution is not the best and even the problem itself may not be what we thought.
+- **Collaborator:** I prioritize solving the right problem for the client. Through collaboration, with product, design and other stakeholders we often discover that the obvious solution is not the best and even the problem itself may not be what we thought.
 - **Process-Oriented:** I have a strong focus on process and believe in fine-tuning it for the team. While Agile methodologies provide a foundation, I advocate for tailoring processes to fit each team's unique needs.
 - **Mentorship:** I've had the privilege of helping numerous engineers skill-up, both within the codebase and in their collaborative processes.
 - **Advocate for Automated Testing:** I firmly believe in the power of automated testing. Well-written tests not only improve build & release confidence they also double as documentation of code and the original intent behind it for years to come.
